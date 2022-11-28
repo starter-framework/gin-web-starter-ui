@@ -1,6 +1,5 @@
 # Web Server
 
-<div align="center"><img src="https://s3.bmp.ovh/imgs/2021/12/3c6ddcf3877171c9.png"/></div>
 <div align="center"><h3 align="center">快速开发平台</h3></div>
 <div align="center"><h3 align="center">基于Gin前后端分离架构，代码精简，开箱即用，前端紧随前沿 Vue3.0 + TypeScript + vite2 + Element-plus技术</h3></div>
 
